@@ -5,4 +5,4 @@ I am also working as a software developer with an interest in data science and v
 
 This repo shows some of my work in exploring a dataset and creating a few example plots of what are possible to help guide strategic coaching decisions for proffessional teams.
 Here is an example plot of champion positions 30s before a dragon spawn up to the dragon kill.
-!(dragon_3_heatmap.png)
+![Example plot](dragon_3_heatmap.png)
